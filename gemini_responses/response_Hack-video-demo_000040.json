@@ -1,0 +1,34 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "Unfortunately, the image provided is **completely black**, and the cropped hints are also entirely black.\n\n**There is no visible information or detail in any of the images.**\n\nTherefore, I cannot detect any rooftop issues such as:\n*   Cracks\n*   Missing tiles\n*   Leaks\n*   Debris\n*   Or any other features.\n\nPlease provide a visible image of the rooftop for me to analyze."
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 287,
+    "candidatesTokenCount": 87,
+    "totalTokenCount": 870,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 29
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 258
+      }
+    ],
+    "thoughtsTokenCount": 496
+  },
+  "modelVersion": "models/gemini-2.5-flash-preview-05-20",
+  "responseId": "VGMyaMDTCpqGqtsPqajwqQM"
+}
